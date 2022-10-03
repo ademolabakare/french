@@ -1,3 +1,7 @@
+body{
+    font-family:"playfair display", sans-serif, helvetica;
+}
+
 #jumbo{
     background-image:url("https://user-images.githubusercontent.com/106655720/193454417-08b5351b-0c4f-4ed4-9e62-82b7f6d992b7.jpg");
     height:50vh;
@@ -72,6 +76,6 @@ background-color: blue;
  .body-text{
     font-weight:100;
     font-size:12px;
-    font-family:"quantum", sans-serif;
+    font-family:"playfair display", sans-serif;
 
   }
